@@ -17,9 +17,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashfik007&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mashfik007/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mashfik007)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mashfik007)  
 
