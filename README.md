@@ -1,16 +1,14 @@
-### Hi there 👋
+### Whats upp👋
 
-<!--
-**Mashfik007/Mashfik007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mashfik, a CSE student who geeks out on building awesome web experiences. As a front-end developer, I love turning ideas into stunning and interactive websites using the power of HTML, CSS, and JavaScript. 🪄
 
-Here are some ideas to get you started:
+I'm always on the hunt for new ways to level up my coding skills, so buckle up and explore my projects to see what I'm brewing! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** 
+* HTML (like the building blocks of the web!)
+* CSS (because styling matters )
+* JavaScript (the brain behind the magic! )
+* [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashfik007)](https://github.com/anuraghazra/github-readme-stats)
+
+👇 Check out my projects to see my code in action! 
+
