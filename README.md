@@ -3,7 +3,13 @@
 </h1>
 <br clear="both">
 
+<!-- 🚀 Banner Image -->
+<img src="https://source.unsplash.com/1600x400/?technology,coding" alt="Banner Image" width="100%">
 
+<!-- 🏆 Name & Designation -->
+<h2 align="center">Mashfik007 | Frontend Developer</h2>
+
+---
 
 ## 🚀 About Me  
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JubXBwbzBzN29uN3dqNXl6OGt5Znc2c3A1Nml5N240NzE5Y3gzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
@@ -14,6 +20,13 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 - 🎨 Design **stunning UI/UX** with **HTML, CSS, JavaScript, and Tailwind CSS**  
 - ⚡ Optimize website **performance and accessibility**  
 - 🔧 Integrate **APIs and backend services** to enhance functionality  
+
+---
+
+## 🔥 Current Activities  
+- 🚀 Exploring **Next.js**  
+- 🌐 Working on a **tourism website**  
+- 🛠 Learning **Three.js** for 3D web development  
 
 ---
 
@@ -32,41 +45,38 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-      
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</div>
 
 ---
-## Leaning📖
+
+## 📚 Currently Learning  
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
- <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  /> 
+   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  /> 
 </div>
- 
-## 🌍 Hobbies & Interests  
-⚽ **Football** – Passionate about playing and watching the game  
-📷 **Photography** – Capturing life’s best moments through the lens  
-📚 **Lifelong Learner** – Always exploring new technologies and frameworks  
 
 ---
+
+## 🌍 Hobbies & Interests  
+- ⚽ **Football** – Passionate about playing and watching the game  
+- 📷 **Photography** – Capturing life’s best moments through the lens  
+- 📚 **Lifelong Learner** – Always exploring new technologies and frameworks  
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Mashfik007&theme=dark&hide_border=true&border_radius=8.7&date_format=M%20j%5B%2C%20Y%5D&card_width=517" alt="GitHub Streak" />
-  </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfik007&show_icons=true&theme=radical">
-
-
+    <img src="https://streak-stats.demolab.com?user=Mashfik007&theme=react&hide_border=true" alt="Mashfik007's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfik007&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Mashfik007's GitHub Stats" />
 </div>
 
-
+---
 
 ## 📫 Let's Connect!  
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  
-  <br />
+
   <a href="https://www.linkedin.com/in/webwizardry-hq-65b274332/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
@@ -76,4 +86,5 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 </div>
 
 ---
+
 🚀 **Let’s build something amazing together!** 🚀  
