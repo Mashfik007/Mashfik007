@@ -12,7 +12,6 @@
 I am a passionate **Frontend Developer** who loves building interactive and responsive web applications. With a strong foundation in modern web technologies, I strive to create **seamless, user-friendly, and high-performance experiences**.  
 
 ### 🌟 What I Do  
-- 🔹 Develop **dynamic web applications** with **React & TypeScript**  
 - 🎨 Design **stunning UI/UX** with **HTML, CSS, JavaScript, and Tailwind CSS**  
 - ⚡ Optimize website **performance and accessibility**  
 - 🔧 Integrate **APIs and backend services** to enhance functionality  
