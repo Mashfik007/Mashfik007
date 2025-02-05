@@ -45,7 +45,10 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Mashfik007&theme=dark&hide_border=true&border_radius=8.7&date_format=M%20j%5B%2C%20Y%5D&card_width=517" alt="GitHub Streak" />
   </a>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
 
 </div>
 
