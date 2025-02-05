@@ -1,5 +1,7 @@
 <h2 align="left">Hi, I'm Mashfik! 👋</h2>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mashfik;" />
+</h1>
 <br clear="both">
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JubXBwbzBzN29uN3dqNXl6OGt5Znc2c3A1Nml5N240NzE5Y3gzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
