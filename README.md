@@ -47,6 +47,8 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   </a>
 <img src="https://cr-skills-chart-widget.codersrank.io/api/chart/Mashfik007?theme=dark" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfik007&layout=compact)
+
 
 
 </div>
