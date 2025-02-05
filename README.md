@@ -2,33 +2,6 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-## 🚀 About Me  
-I am a passionate **Frontend Developer** dedicated to crafting interactive, responsive, and user-friendly web applications. With expertise in modern web technologies, I strive to create **seamless digital experiences** that are both visually appealing and high-performing.  
-
-### 🌟 What I Do  
-- 🔹 Develop **dynamic web applications** with **React & TypeScript**  
-- 🎨 Design **stunning UI/UX** with **HTML, CSS, JavaScript, and Tailwind CSS**  
-- ⚡ Focus on **performance optimization** and **cross-browser compatibility**  
-- 🔧 Integrate **APIs and backend services** to enhance functionality  
-
----
-
-## 🛠️ Tech Stack  
-- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Firebase  
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
-- **Others:** RESTful APIs, Web Performance Optimization  
-
----
-
-## 🌍 Hobbies & Interests  
-⚽ **Football** – Passionate about playing and watching the game  
-📷 **Photography** – Capturing life’s best moments through the lens  
-📚 **Lifelong Learner** – Always excited to explore new technologies and frameworks  
-
----
-
-## 📫 Let's Connect!  
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
