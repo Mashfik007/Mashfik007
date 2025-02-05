@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JubXBwbzBzN29uN3dqNXl6OGt5Znc2c3A1Nml5N240NzE5Y3gzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+
 
 ## 🚀 About Me  
 I am a passionate **Frontend Developer** who loves building interactive and responsive web applications. With a strong foundation in modern web technologies, I strive to create **seamless, user-friendly, and high-performance experiences**.  
@@ -16,7 +16,7 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 - 🔹 Develop **dynamic web applications** with **React & TypeScript**  
 - 🎨 Design **stunning UI/UX** with **HTML, CSS, JavaScript, and Tailwind CSS**  
 - ⚡ Optimize website **performance and accessibility**  
-- 🔧 Integrate **APIs and backend services** to enhance functionality  
+- 🔧 Integrate **APIs and backend services** to enhance functionality  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JubXBwbzBzN29uN3dqNXl6OGt5Znc2c3A1Nml5N240NzE5Y3gzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 
 
