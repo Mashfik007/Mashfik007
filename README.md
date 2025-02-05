@@ -29,7 +29,8 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</div>
+  <img width="12" />
+  </div>
 
 ---
 
