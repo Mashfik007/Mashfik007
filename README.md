@@ -40,10 +40,10 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 📚 **Lifelong Learner** – Always exploring new technologies and frameworks  
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mashfik007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mashfik007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Mashfik007&theme=dark&hide_border=true&border_radius=8.7&date_format=M%20j%5B%2C%20Y%5D&card_width=517" alt="GitHub Streak" />
+</a>
+
 <img src="https://raw.githubusercontent.com/Mashfik007/Mashfik007/output/snake.svg" alt="Snake animation" />
 ## 📫 Let's Connect!  
 
