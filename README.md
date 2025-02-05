@@ -1,10 +1,11 @@
+<!-- 🚀 Banner Image -->
+<img src="https://i.ibb.co.com/r2d6gnz8/It-s-not-who-I-am-underneath-but-what-I-do-that-defines-me.jpg" alt="Banner Image" width="100%">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mashfik;" />
 </h1>
 <br clear="both">
 
-<!-- 🚀 Banner Image -->
-<img src="https://source.unsplash.com/1600x400/?technology,coding" alt="Banner Image" width="100%">
+
 
 <!-- 🏆 Name & Designation -->
 <h2 align="center">Mashfik007 | Frontend Developer</h2>
