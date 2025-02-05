@@ -47,7 +47,7 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Mashfik007/Mashfik007/output/snake.svg" alt="Snake animation" />
+
 ## 📫 Let's Connect!  
 
 <div align="left">
@@ -63,11 +63,4 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 </div>
 
 ---
-
-<br clear="both">
-
-
-
----
-
 🚀 **Let’s build something amazing together!** 🚀  
