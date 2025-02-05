@@ -18,7 +18,7 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
 - ⚡ Optimize website **performance and accessibility**  
 - 🔧 Integrate **APIs and backend services** to enhance functionality  
 
----
+
 
 ## 🛠️ Tech Stack  
 
