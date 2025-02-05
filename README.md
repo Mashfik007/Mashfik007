@@ -45,7 +45,6 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Mashfik007&theme=dark&hide_border=true&border_radius=8.7&date_format=M%20j%5B%2C%20Y%5D&card_width=517" alt="GitHub Streak" />
   </a>
-<img src="https://cr-skills-chart-widget.codersrank.io/api/chart/Mashfik007?theme=dark" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfik007&layout=compact" alt="my_sts">
 
