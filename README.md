@@ -32,10 +32,18 @@ I am a passionate **Frontend Developer** who loves building interactive and resp
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+      
   </div>
 
 ---
-
+## Leaning📖
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+ <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  /> 
+</div>
+ 
 ## 🌍 Hobbies & Interests  
 ⚽ **Football** – Passionate about playing and watching the game  
 📷 **Photography** – Capturing life’s best moments through the lens  
